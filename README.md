@@ -1,67 +1,8 @@
-# PlatysmaResearch
-Skip Main Navigation LinksJump to Footer
-Scopus	Preview
-Author search
-Sources
-Help 
-Register Login
-Document details
-1 of 1
- Export   Download 	More... 
-International Journal of Surgery Case Reports
-Volume 5, Issue 5, 2014, Pages 282-286
-Platysma myocutaneous flap interposition in surgical management of large acquired post-traumatic tracheoesophageal fistula: A case report(Article)
-Akaraviputh, T.,  Angkurawaranon, C.,  Phanchaipetch, T.,  Lohsiriwat, V.,  Nimmanwudipong, T.,  Chinswangwatanakul, V.,  Metasate, A.,  Trakarnsanga, A.,  Swangsri, J.,  Taweerutchana, V.  View Correspondence (jump link)
-aMed. Minimally Invasive Surgery Unit, Division of General Surgery, Department of Surgery, Faculty of Medicine, Siriraj Hospital, Mahidol University, Bangkok, Thailand
-bDivision of Cardiovascular and Thoracic Surgery, Department of Surgery, Faculty of Medicine, Siriraj Hospital, Mahidol University, Bangkok, Thailand
-cDivision of Head Neck and Breast Surgery, Department of Surgery, Faculty of Medicine, Siriraj Hospital, Mahidol University, Bangkok, Thailand
-View additional affiliations  
+Predictors of physical functioning in postoperative brain tumor patients.
+
+Tankumpuan T1, Utriyaprasit K, Chayaput P, Itthimathin P.
+Author information
+1
+Thitipong Tankumpuan, MNS, is a Full-Time Instuctor, Faculty of Nursing, Department of Surgical Nursing, Mahidol University, Bangkok, Thailand. Questions or comments about this article may be directed to Ketsarin Utriyaprasit, PhD, at ketsarin.utr@mahidol.ac.th. She is an Associate Professor, Faculty of Nursing, Department of Surgical Nursing, Mahidol University, Bangkok, Thailand. Prangtip Chayaput, PhD, is an Assistant Professor, Faculty of Nursing, Department of Surgical Nursing, Mahidol University, Bangkok, Thailand. Parunut Itthimathin, MD MSc (Neuro Surgery), is a Neurosurgical Surgeon, Faculty of Medicine, Department of Surgery, Siriraj Hospital, Mahidol University, Bangkok, Thailand.
 Abstract
-
-INTRODUCTION Acquired post-traumatic tracheoesophageal fistula (TEF) is an uncommon entity requiring early diagnosis. Among the many strategies in surgical management, we report a case successfully treated with a single-stage tracheal resection and esophageal repair with platysma myocutaneous interposition flap. PRESENTATION OF CASE A 24-year-old man had a motor vehicle accident with head injury and cerebral contusion who required mechanical ventilation support. Three weeks later, he developed hypersecretion, and recurrent episodes of aspiration pneumonia. The chest computed tomography, esophagogastroduodenoscopy, and bronchoscopy revealed a large TEF diameter of 3 cm at 4.5 cm from carina. Single-stage tracheal resection with primary end-to-end anastomosis and esophageal repair with platysma myocutaneous interposition flap was performed. A contrast esophagography was done on post-operative day 7 and revealed no leakage. He was discharged on post-operative day 10. Esophagogastroduodenoscopy at 1 month revealed patient esophageal lumen. At present he is doing well without any evidence of complications such as esophageal stricture or fistula. DISCUSSION There are many choices of myocutaneous muscle flaps in trachea and esophageal closure or reinforcement. The platysma myocutaneous flap interposition is simple with the advantage of reduced bulkiness. Concern on the vascular supply is that flap should be elevated with the deep adipofascial tissue under the platysma to ensure that the flap survival is not threatened. CONCLUSION The treatment of acquired TEF with platysma myocutaneous flap is an alternative procedure for a large uncomplicated TEF as it is effective, technically ease, minimal donor site defect and yields good surgical results. © 2014 The Authors. Published by Elsevier Ltd. on behalf of Surgical Associates Ltd.
-
-Author keywords
-
-Esophageal repair Interposition flap Platysma flap Tracheal reconstruction Tracheoesophageal fistula
-Indexed keywords
-
-EMTREE medical terms:	adultArticleartificial ventilationaspiration pneumoniabrain contusionbronchoscopycase reportcomputer assisted tomographydevice removalend to end anastomosisesophagogastroduodenoscopyesophagographyhead injuryhospital admissionhumanmalemyocutaneous flapnutritional supportpercutaneous endoscopic gastrostomyplatysma musclepostoperative periodpriority journalsternotomystomach tubesubdural hematomatrachea resectiontracheoesophageal fistulatraffic accidentyoung adult
-ISSN: 22102612
-Source Type: Journal
-Original language: English
-DOI: 10.1016/j.ijscr.2014.03.017
-Document Type: Article
-Publisher: Elsevier Ltd
-  Akaraviputh, T.; Med. Minimally Invasive Surgery Unit, Division of General Surgery, Department of Surgery, Faculty of Medicine, Siriraj Hospital, Mahidol University, Bangkok, Thailand; 
-© Copyright 2016 Elsevier B.V., All rights reserved.
-
-Cited by 0 documents
-Inform me when this document is cited in Scopus:
-Set citation alert  Set citation feed 
-Related documents
-Find more related documents in Scopus based on:
-Authors 
-Keywords 
-About Scopus
-
-What is Scopus
-Content coverage
-Scopus blog
-Scopus API
-Privacy matters
-Language
-
-日本語に切り替える
-切换到简体中文
-切換到繁體中文
-Русский язык
-Customer Service
-
-Help
-Contact us
- Elsevier
-Terms and conditions  Privacy policy
-Copyright © 2017 Elsevier B.V. All rights reserved. Scopus® is a registered trademark of Elsevier B.V. 
-Cookies are set by this site. To decline them or learn more, visit our Cookies page.
-
-RELX Group
+A cross-sectional predictive design was used to study the relationships among recovery symptoms, mood state, and physical functioning and to identify predictors of physical functioning in patients who underwent surgery for brain tumor at the first follow-up visit (2 weeks) after hospital discharge. The sample included 88 patients who were 18 years or older, had full level of consciousness, and underwent first-time surgery for brain tumor without other adjuvant treatments from a tertiary hospital in Bangkok, Thailand. Descriptive statistics, Pearson product-moment correlation coefficient, and multiple regression were used for data analysis. The results revealed that most participants were women (75%) with an average age of 45.18 ± 11.49 years, having benign brain tumors (91%) and pathological results as meningioma (48.9%). The most common recovery symptoms were pain (mean = 3.2, SD = 2.6) and sleep disturbance (mean = 3.1, SD = 3.0). As for mood state, the problem of confusion was found the most (mean = 4.6, SD = 2.7). The physical functioning problem found the most was work aspect (mean = 66.3, SD = 13.3). Recovery symptoms had positive relationships with physical functioning and mood state (r = .406, .716; p < .01), respectively. At the same time, mood state had positive relationships with physical functioning (r = .288, p < .01). Recovery symptoms, total mood disturbance, fatigue, and vigor were statistically significant predictors of physical functioning and could explain variance of postoperative physical functioning in these patients at 2 weeks after discharge by 35%. Total mood disturbance was the strongest predictor of physical functioning followed by vigor, fatigue, and recovery symptom, respectively. Interventions to improve physical functioning in postoperative brain tumor patients during home recovery should account for not only recovery symptom management but also mood state.
